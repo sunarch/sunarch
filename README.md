@@ -3,7 +3,7 @@
 (Mostly) hobbyist developer
 - most: Python, JavaScript
 - some: C
-- plans: Lisp (Racket), Rust
+- plans: Lisp (Scheme/Chez/Racket), Rust
 
 Interested in Open Source / FOSS.
 

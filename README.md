@@ -2,8 +2,8 @@
 
 (Mostly) hobbyist developer
 - most: Python, JavaScript
-- some: C
-- plans: Lisp (Scheme/Chez/Racket), Rust
+- some: Rust, C
+- plans: Lisp (Scheme/Chez/Racket)
 
 Interested in Open Source / FOSS.
 
@@ -11,7 +11,7 @@ Located in Budapest, Hungary 🇭🇺 .
 
 ## Website
 
-- [sunarch on GitHub.io](https://sunarch.github.io)
+- sunarch [dev homepage](https://sunarch.github.io)
 
 ## Contacts
 

@@ -1,9 +1,12 @@
 # Hi there!
 
 (Mostly) hobbyist developer
-- most: Python, JavaScript
-- some: Rust, C
-- plans: Lisp (Scheme/Chez/Racket)
+- current primary: Python
+- for the web: JavaScript
+- some low-level: Rust, Zig, C
+- some: Lisp (Chez Scheme / Racket)
+- plans: Elixir, Haskell
+- to read: Go
 
 Interested in Open Source / FOSS.
 

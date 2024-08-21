@@ -1,17 +1,16 @@
 # Hi there!
 
-(Mostly) hobbyist developer
-- most, currently: Python
-- preferred, learning: Rust, Nim
-- for client-side web: JavaScript
-- looking into: Go, Odin, OCaml
-- some: C, Lisp (Chez Scheme / Racket)
-- for specific projects: PHP, Lua
-- plans: Erlang/Elixir/Gleam
+I'm Andrew, a (mostly) hobbyist developer, located in Budapest, Hungary 🇭🇺
 
-Interested in Open Source / FOSS.
+Interested in Open Source / Free Software / FOSS.
 
-Located in Budapest, Hungary 🇭🇺 .
+languages:
+
+- preferred, learning: Odin, Rust, Zig
+- good to know: Python, C, Lua
+- tried: OCaml, Nim, Go
+- for some web: PHP
+- possible plans: Erlang / Elixir / Gleam
 
 ## Website
 
